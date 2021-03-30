@@ -1,0 +1,15 @@
+{
+    "name": "parth.khunt/common",
+    "description": "This is a package for the microservices",
+    "type": "library",
+    "require": {
+        "laravel/framework": "^8.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "parthrk",
+            "email": "parthrk@gmail.com"
+        }
+    ]
+}
